@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## EcoAi Lab 학부연구생
+##
 <!--
 **jiiiiiiisu/jiiiiiiisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
