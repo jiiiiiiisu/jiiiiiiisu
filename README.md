@@ -9,7 +9,7 @@
 
 
 ## 📫
-- **Email:** [k4ngj15u@gmail.com]
+- **Email:** k4ngj15u@gmail.com
 <!--
 **jiiiiiiisu/jiiiiiiisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
