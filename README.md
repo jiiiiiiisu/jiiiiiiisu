@@ -1,7 +1,7 @@
 
 ## 🎓 
 - **국립한밭대학교 (Hanbat National University)** 컴퓨터공학과 3학년
-- **EcoAiLab** 학부연구생
+- **EcoAILab** 학부연구생
 
 
 ## 📜 
