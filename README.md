@@ -1,26 +1,35 @@
 
-## 🎓 
-- **국립한밭대학교 (Hanbat National University)** 컴퓨터공학과 3학년
-- **EcoAILab** 학부연구생
+<details>
+  <summary><b> 👀 About Me</b></summary>
+  <br/>
+
+- Undergraduate Researcher at **[EcoAILab](https://sites.google.com/view/ecoai)**
+- Computer Science and Engineering, **Hanbat National University**
+</details>
 
 
-## 📜 
-- **2026.02.04 ~ 2026.02.06**: 2026 한국통신학회 동계학술대회 참가 및 논문 발표/참관
+<details>
+  <summary><b> ⭐ Activities</b></summary>
+  <br/>
+
+  | Period | Activities | Details |
+| :--- | :--- | :--- |
+| 2026.02  | 2026 한국통신학회 동계학술대회 | LSTM Autoencoder 기반 수요관리용 ESS 운전 패턴 분석 및 이상 운전 탐지 연구 |
+
+</details>
 
 
-## 📫
-- **Email:** k4ngj15u@gmail.com
-<!--
-**jiiiiiiisu/jiiiiiiisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><b> 💌 Contact </b></summary>
+  <br/>
 
-Here are some ideas to get you started:
+  
+**Email:**  k4ngj15u@gmail.com
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</details>
+
+
+
+
